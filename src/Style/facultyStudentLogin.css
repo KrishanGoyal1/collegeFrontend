@@ -7,7 +7,7 @@
     right: 0;
     bottom: 0;
     z-index: 9999;
-    background-image: url(https://nit-kkr.vercel.app/static/media/nit_kurukshetra-06-05-2023-0001.844a961c.jpg);
+    background-image: url('./Images/nit_kurukshetra-06-05-2023-0001.jpg');
     background-size: cover;
     background-position: center;
 }
