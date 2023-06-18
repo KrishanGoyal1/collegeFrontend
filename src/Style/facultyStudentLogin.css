@@ -1,9 +1,14 @@
 
 
 #trail {
-    background: url('./Images/nit_kurukshetra-06-05-2023-0001.jpg')
-    /* ./Images/green-chameleon-s9CC2SKySJM-unsplash.jpg */
-    center/cover no-repeat fixed ;
-    
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999;
+    background-image: url(https://nit-kkr.vercel.app/static/media/nit_kurukshetra-06-05-2023-0001.844a961c.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
